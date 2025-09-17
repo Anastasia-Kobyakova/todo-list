@@ -1,3 +1,3 @@
 # React Todo-List Preview
 
-![react todo-list preview](./GitHub/todoListPreview.png?raw=true)
+![react todo-list preview](./GitHub/todoListPreview.gif?raw=true)
